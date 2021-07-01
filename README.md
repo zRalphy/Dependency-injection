@@ -1,5 +1,5 @@
 # Dependency-injection
-DEFINICJA
+
 Wstrzykiwanie zależności – wzorzec projektowy i wzorzec architektury oprogramowania polegający na usuwaniu bezpośrednich zależności pomiędzy komponentami na rzecz architektury typu plug-in.
 
 Przedstawiono w oparciu o model zamwiania pizzy.
